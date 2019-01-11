@@ -1,0 +1,38 @@
+Client:Mobicom
+
+Domain:Telecom
+
+Project Details:
+Mobicom is facing high churn and decline in ARPU (Average revenue per user) and they want to formalise a strategy to retain customers by using data based insights and recommendations
+relating to the subscriber churn.
+
+Techniques Used:
+Descriptive Statistics
+Variable Profiling
+Logistic Regression
+Clustering
+
+Insights:
+
+1. The top 5 top five factors driving likelihood of churn at Mobicom are
+
+optimum=OVRREV_MEAN/TOTREV (Mean overage revenue/Total Revenue)
+ethinic (ethinicity roll up code)
+Completion_Percentage=Completed Voice Calls/Total Placed Calls
+asl_flag (account spending limit)
+refurb_new (Handset: refurbished or new)
+
+2. “Cost and Billing” and “Network and Service Quality” are important factors influencing churn behaviour.
+3. Data usage connectivity issues aren't turning out to be costly as anticipated by the company.
+4. Offer bundling and churn are negatively correlated.
+
+Recommendations:
+
+1. Based on usage based promotions to increase minutes of usage (MOU) for both voice and data. It is an accepted fact that low usage and high churn go hand in hand
+Mobicom should focus on targeting customers with low usage.
+2. Migration of non-optimum plan customers to optimum plan customers.
+3. Since offer bundling and churn are negatively correlated, Mobicom should target customers with greater than or equal to 3 unique subscribers in a family.
+4. ARPU forecast shows sharp decline in ARPU thus Mobicom could like to save their high revenue customers besides managing churn. Mobicom should Target top 20% customers of the
+subscribers pool.
+
+The above could recommendations help Mobicom control churn and retaing maximum high revenue generating customers.
